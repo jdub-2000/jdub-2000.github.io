@@ -18,7 +18,8 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: bold;
+    color: chartreuse;
 }
 h1 {
     color:#999;
@@ -48,4 +49,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    color:#999;
 }
