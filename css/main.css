@@ -16,6 +16,7 @@ nav ul li, footer ul li {
 a {
     text-emphasis-style: bold;
     color: #999;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 a:hover {
     text-decoration: none;
