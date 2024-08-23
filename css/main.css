@@ -35,6 +35,9 @@ h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h5 {
+    color:#999;
+}
 p {
     font-size: 1.3em;
     line-height: 1.4em;
@@ -57,13 +60,13 @@ ul.posts li ul {
 /* */
 .fakeimg {
     background-color: #aaa;
-    width: 100%;
+    width: 80%;
     padding: 20px;
   }
 
 /* Add a card effect for articles */
 .card {
-    background-color: white;
+    background-color: black;
     padding: 20px;
     margin-top: 20px;
   }
